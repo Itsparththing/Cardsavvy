@@ -4,6 +4,6 @@ Protecting contactless cards, also known as RFID (Radio-Frequency Identification
 
 ![img22](https://github.com/Itsparththing/SpamGuard-Automated-Spam-Detector/assets/86774143/385804d1-7ce7-4c8e-88d5-79cd31b32356)
 
-#Overall Architecture
+# Overall Architecture
 
-![Architecture]()
+![121-removebg-preview](https://github.com/Itsparththing/Cardsavvy/assets/86774143/2cc268ae-c2ec-477d-ae78-f6251a117ee3)
