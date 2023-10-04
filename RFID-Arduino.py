@@ -36,7 +36,7 @@ else:
     result = tkinter.messagebox.askquestion('Authentication!',
                                             'Some one wants your information. Do you want to give access?')
     if result == 'yes':
-        theLabel = Label(root, text="Now he can access your information ")
+        theLabel = Label(root, text="Now it can access your card's information")
         query = 'insert into info values ("{}",{},"{}",{})'.format(name, cardno, email, mobno)
         cur.execute(query)
         theLabel.pack()
