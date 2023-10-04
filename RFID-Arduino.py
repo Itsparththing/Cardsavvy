@@ -4,6 +4,7 @@ import mysql.connector
 import serial
 import time
 
+# Connecting with the Database
 con = mysql.connector.connect(host='localhost', password='123456789', user='root', database='safety')
 cur = con.cursor()
 
