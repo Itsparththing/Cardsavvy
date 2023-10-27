@@ -9,5 +9,7 @@ Protecting contactless cards, also known as RFID (Radio-Frequency Identification
 ![121-removebg-preview](https://github.com/Itsparththing/Cardsavvy/assets/86774143/2cc268ae-c2ec-477d-ae78-f6251a117ee3)
 
 # Components
-Arduino
-RFID
+- Arduino Evo R3
+- MFRC RFID Scanner
+
+
